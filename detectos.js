@@ -1,6 +1,7 @@
 /*!
   * detectos - a browser os detector
   * copyright Matt Wood 2011
+  * https://github.com/magearwhig/detectos/
   * MIT License
   * Borrows heavily from Dustin Diaz's Bowser - https://github.com/ded/bowser
   */
